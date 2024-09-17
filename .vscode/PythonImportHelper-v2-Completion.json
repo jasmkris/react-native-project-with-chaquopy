@@ -1,0 +1,561 @@
+[
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "TextIOBase",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "TextIOBase",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "importPath": "sqlite_todo",
+        "description": "sqlite_todo",
+        "isExtraImport": true,
+        "detail": "sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "input",
+        "importPath": "six.moves",
+        "description": "six.moves",
+        "isExtraImport": true,
+        "detail": "six.moves",
+        "documentation": {}
+    },
+    {
+        "label": "input",
+        "importPath": "six.moves",
+        "description": "six.moves",
+        "isExtraImport": true,
+        "detail": "six.moves",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleInputStream",
+        "kind": 6,
+        "importPath": "android.app.src.main.python.chaquopy.utils.console",
+        "description": "android.app.src.main.python.chaquopy.utils.console",
+        "peekOfCode": "class ConsoleInputStream(TextIOBase):\n    \"\"\"Receives input in on_input in one thread (non-blocking), and provides a read interface\n    in another thread (blocking).\n    \"\"\"\n    def __init__(self, task):\n        self.task = task\n        self.queue = Queue()\n        self.buffer = \"\"\n        self.eof = False\n    @property",
+        "detail": "android.app.src.main.python.chaquopy.utils.console",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleOutputStream",
+        "kind": 6,
+        "importPath": "android.app.src.main.python.chaquopy.utils.console",
+        "description": "android.app.src.main.python.chaquopy.utils.console",
+        "peekOfCode": "class ConsoleOutputStream(TextIOBase):\n    \"\"\"Passes each write to the underlying stream, and also to the given method, which must take\n    a single string argument.\n    \"\"\"\n    def __init__(self, stream, obj, method_name):\n        self.stream = stream\n        self.method = getattr(obj, method_name)\n    def __repr__(self):\n        return f\"<ConsoleOutputStream {self.stream}>\"\n    def __getattribute__(self, name):",
+        "detail": "android.app.src.main.python.chaquopy.utils.console",
+        "documentation": {}
+    },
+    {
+        "label": "run_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.main",
+        "description": "android.app.src.main.python.chaquopy.utils.main",
+        "peekOfCode": "def run_task(task, action, task_id=None, done=None):\n    if action == \"add\":\n        add_task(task)\n        return \"Task added successfully.\"\n    elif action == \"get\":\n        return get_all_tasks()\n    elif action == \"update\":\n        update_task(task_id, done)\n        return \"Task updated successfully.\"\n    elif action == \"delete\":",
+        "detail": "android.app.src.main.python.chaquopy.utils.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0\n        )\n    ''')",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def add_task(task):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"INSERT INTO todo (task, done) VALUES (?, ?)\", (task, 0))\n    connection.commit()\n    connection.close()\n# Get all tasks\ndef get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"SELECT * FROM todo\")\n    rows = cursor.fetchall()\n    connection.close()\n    return rows\n# Update a task (mark as done or undone)\ndef update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"UPDATE todo SET done = ? WHERE id = ?\", (done, task_id))\n    connection.commit()\n    connection.close()\n# Delete a task\ndef delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"DELETE FROM todo WHERE id = ?\", (task_id,))\n    connection.commit()\n    connection.close()\ncreate_table()",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "DB_PATH = os.path.join(os.path.dirname(__file__), 'sqlite_todo.db')\n# Create the to-do table if it doesn't exist\ndef create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0",
+        "detail": "android.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "run_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.main",
+        "description": "android.app.src.main.python.main",
+        "peekOfCode": "def run_task(task, action, task_id=None, done=None):\n    if action == \"add\":\n        add_task(task)\n        return \"Task added successfully.\"\n    elif action == \"get\":\n        return get_all_tasks()\n    elif action == \"update\":\n        update_task(task_id, done)\n        return \"Task updated successfully.\"\n    elif action == \"delete\":",
+        "detail": "android.app.src.main.python.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.main",
+        "description": "android.app.src.main.python.main",
+        "peekOfCode": "def main(key):\n    print(\"Enter your name, or an empty line to exit.\")\n    while True:\n        try:\n            name = input()\n        except EOFError:\n            break\n        if not name:\n            break\n        print(\"Hello {}!\".format(name))",
+        "detail": "android.app.src.main.python.main",
+        "documentation": {}
+    },
+    {
+        "label": "plot",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.plot",
+        "description": "android.app.src.main.python.plot",
+        "peekOfCode": "def plot(x, y):\n    xa = [float(word) for word in x.split()]\n    ya = [float(word) for word in y.split()]\n    fig, ax = plt.subplots()\n    ax.plot(xa, ya)\n    f = io.BytesIO()\n    plt.savefig(f, format=\"png\")\n    return f.getvalue()",
+        "detail": "android.app.src.main.python.plot",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0\n        )\n    ''')",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def add_task(task):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"INSERT INTO todo (task, done) VALUES (?, ?)\", (task, 0))\n    connection.commit()\n    connection.close()\n# Get all tasks\ndef get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"SELECT * FROM todo\")\n    rows = cursor.fetchall()\n    connection.close()\n    return rows\n# Update a task (mark as done or undone)\ndef update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"UPDATE todo SET done = ? WHERE id = ?\", (done, task_id))\n    connection.commit()\n    connection.close()\n# Delete a task\ndef delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"DELETE FROM todo WHERE id = ?\", (task_id,))\n    connection.commit()\n    connection.close()\ncreate_table()",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "android.app.src.main.python.sqlite_todo",
+        "description": "android.app.src.main.python.sqlite_todo",
+        "peekOfCode": "DB_PATH = os.path.join(os.path.dirname(__file__), 'sqlite_todo.db')\n# Create the to-do table if it doesn't exist\ndef create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0",
+        "detail": "android.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleInputStream",
+        "kind": 6,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.console",
+        "description": "android1.app.src.main.python.chaquopy.utils.console",
+        "peekOfCode": "class ConsoleInputStream(TextIOBase):\n    \"\"\"Receives input in on_input in one thread (non-blocking), and provides a read interface\n    in another thread (blocking).\n    \"\"\"\n    def __init__(self, task):\n        self.task = task\n        self.queue = Queue()\n        self.buffer = \"\"\n        self.eof = False\n    @property",
+        "detail": "android1.app.src.main.python.chaquopy.utils.console",
+        "documentation": {}
+    },
+    {
+        "label": "ConsoleOutputStream",
+        "kind": 6,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.console",
+        "description": "android1.app.src.main.python.chaquopy.utils.console",
+        "peekOfCode": "class ConsoleOutputStream(TextIOBase):\n    \"\"\"Passes each write to the underlying stream, and also to the given method, which must take\n    a single string argument.\n    \"\"\"\n    def __init__(self, stream, obj, method_name):\n        self.stream = stream\n        self.method = getattr(obj, method_name)\n    def __repr__(self):\n        return f\"<ConsoleOutputStream {self.stream}>\"\n    def __getattribute__(self, name):",
+        "detail": "android1.app.src.main.python.chaquopy.utils.console",
+        "documentation": {}
+    },
+    {
+        "label": "run_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.main",
+        "description": "android1.app.src.main.python.chaquopy.utils.main",
+        "peekOfCode": "def run_task(task, action, task_id=None, done=None):\n    if action == \"add\":\n        add_task(task)\n        return \"Task added successfully.\"\n    elif action == \"get\":\n        return get_all_tasks()\n    elif action == \"update\":\n        update_task(task_id, done)\n        return \"Task updated successfully.\"\n    elif action == \"delete\":",
+        "detail": "android1.app.src.main.python.chaquopy.utils.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0\n        )\n    ''')",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def add_task(task):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"INSERT INTO todo (task, done) VALUES (?, ?)\", (task, 0))\n    connection.commit()\n    connection.close()\n# Get all tasks\ndef get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"SELECT * FROM todo\")\n    rows = cursor.fetchall()\n    connection.close()\n    return rows\n# Update a task (mark as done or undone)\ndef update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"UPDATE todo SET done = ? WHERE id = ?\", (done, task_id))\n    connection.commit()\n    connection.close()\n# Delete a task\ndef delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "def delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"DELETE FROM todo WHERE id = ?\", (task_id,))\n    connection.commit()\n    connection.close()\ncreate_table()",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "description": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "peekOfCode": "DB_PATH = os.path.join(os.path.dirname(__file__), 'sqlite_todo.db')\n# Create the to-do table if it doesn't exist\ndef create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0",
+        "detail": "android1.app.src.main.python.chaquopy.utils.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "run_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.main",
+        "description": "android1.app.src.main.python.main",
+        "peekOfCode": "def run_task(task, action, task_id=None, done=None):\n    if action == \"add\":\n        add_task(task)\n        return \"Task added successfully.\"\n    elif action == \"get\":\n        return get_all_tasks()\n    elif action == \"update\":\n        update_task(task_id, done)\n        return \"Task updated successfully.\"\n    elif action == \"delete\":",
+        "detail": "android1.app.src.main.python.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.main",
+        "description": "android1.app.src.main.python.main",
+        "peekOfCode": "def main(key):\n    print(\"Enter your name, or an empty line to exit.\")\n    while True:\n        try:\n            name = input()\n        except EOFError:\n            break\n        if not name:\n            break\n        print(\"Hello {}!\".format(name))",
+        "detail": "android1.app.src.main.python.main",
+        "documentation": {}
+    },
+    {
+        "label": "create_table",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0\n        )\n    ''')",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "add_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def add_task(task):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"INSERT INTO todo (task, done) VALUES (?, ?)\", (task, 0))\n    connection.commit()\n    connection.close()\n# Get all tasks\ndef get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_tasks",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def get_all_tasks():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"SELECT * FROM todo\")\n    rows = cursor.fetchall()\n    connection.close()\n    return rows\n# Update a task (mark as done or undone)\ndef update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "update_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def update_task(task_id, done):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"UPDATE todo SET done = ? WHERE id = ?\", (done, task_id))\n    connection.commit()\n    connection.close()\n# Delete a task\ndef delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "delete_task",
+        "kind": 2,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "def delete_task(task_id):\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute(\"DELETE FROM todo WHERE id = ?\", (task_id,))\n    connection.commit()\n    connection.close()\ncreate_table()",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "android1.app.src.main.python.sqlite_todo",
+        "description": "android1.app.src.main.python.sqlite_todo",
+        "peekOfCode": "DB_PATH = os.path.join(os.path.dirname(__file__), 'sqlite_todo.db')\n# Create the to-do table if it doesn't exist\ndef create_table():\n    connection = sqlite3.connect(DB_PATH)\n    cursor = connection.cursor()\n    cursor.execute('''\n        CREATE TABLE IF NOT EXISTS todo (\n            id INTEGER PRIMARY KEY AUTOINCREMENT,\n            task TEXT NOT NULL,\n            done INTEGER DEFAULT 0",
+        "detail": "android1.app.src.main.python.sqlite_todo",
+        "documentation": {}
+    }
+]
